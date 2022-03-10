@@ -1,0 +1,15 @@
+{ 
+  "env":{
+  "allure":false
+},
+  "defaultCommandTimeout":30000,
+  "pageLoadTimeout":100000,
+ 
+  "chromeWebSecurity": false,
+"integrationFolder":"cypress/integration",
+"restartBrowserBetweenSpecFiles": true,
+
+ "testFiles": "**/*.{features,feature}",
+"projectId": "unrvaw"
+
+}

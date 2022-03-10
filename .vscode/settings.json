@@ -1,0 +1,4 @@
+{
+    "cuke_step_definition_file_path": "test/e2e/step_definitions/stepDefinition.js",
+    "git.enable":false
+}
